@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="es" lang_full="Español (Spanish)">
+<!-- Diálogos de crianza -->
+    <string id="16779080">¿Criar?</string>
+    <string id="16779082"> </string>
+    <string id="16779083"> </string>
+    <string id="16779086"> </string>
+    <string id="16779087">¿Quieres el huevo?</string>
+    
+<!-- Diálogos de CP -->
+    <string id="1725571">¿Curar?</string>
+    <string id="1725665"> </string>
+    <string id="1725713"> </string>
+    <string id="1725739">Hasta la próxima.</string>
+    <string id="271001323">¿Curar?</string>
+    <string id="271001448"> </string>
+    <string id="271001496"> </string>
+    <string id="271001563">Hasta la próxima</string>
+    <string id="271002048"> </string>
+    <string id="271002096"> </string>
+    <string id="271002119">Hasta la próxima</string>
+    <string id="271002145"> </string>
+    <string id="271002175">Hasta la próxima</string>
+<!-- Prompts de MO's -->
+    <string id="271124270">¿Usar Corte?</string>
+    <string id="271124337"/>
+    <string id="271124538">¿Usar Golpe Roca?</string>
+    <string id="271124780">¿Usar Fuerza?</string>
+    <string id="271124876"/>
+    <string id="271003606">¿Hacer Surf?</string>
+    <string id="271003661"/>
+    <string id="271125187">¿Usar Cascada?</string>
+    <string id="271125244"/>
+
+
+    <string id="1826708">¿Usar Corte?</string>    
+    <string id="1826775"> </string>
+    <string id="1826973">¿Usar Golpe Roca?</string>
+    <string id="1827226">¿Usar Fuerza?</string>
+    <string id="1827322"/>    
+    <string id="1725806">¿Hacer Surf?</string>    
+    <string id="1725861"/>
+    <string id="1827647">¿Usar Cascada?</string>
+    <string id="1827704"/>
+    <string id="1827945">¿Usar Buceo?</string>
+    <string id="1827995"/>
+    <string id="1828079">¿Usar Buceo?</string>
+    <string id="1828143">No se puede usar Buceo.</string>
+
+    <string id="16780421">¿Usar Golpe Roca?</string>
+<!-- NPC Fast Travel -->
+    <string id="16780100">Dónde caemos gente</string>
+    <string id="16780103">Adelante</string>
+<!-- Strings de plantación de bayas -->
+    <string id="16780309">Hecho.</string>
+    <string id="16780310">ESTADO: Recién plantadas</string>
+    <string id="16780311">ESTADO: germinada.</string>
+    <string id="16780312">semillas</string>
+    <string id="16780313">árbol joven</string>
+    <string id="16780314">La planta está muerta. ¿Limpiar la parcela?</string>
+    <string id="16780315"> </string>
+    <string id="16780316"> </string>
+    <string id="16780317"> </string>
+    <string id="16780318"> </string>
+    <string id="16780319">La planta está muerta. ¿Limpiar la parcela?</string>
+    <string id="16780320"> </string>
+    <string id="16780321"> </string>
+    <string id="16780322">La planta está muerta. ¿Limpiar la parcela?</string>
+    <string id="16780324"> </string>
+    <string id="16780325"> </string>
+    <string id="16780326">¿Plantar?</string>
+    <string id="16780327">¿Regar?</string>
+    <string id="16780328"> </string>
+    <string id="16780329">¿Cosechar las {01} {00}?</string>
+    <string id="16780330"> </string>
+    <string id="16780331"> </string>
+
+<!-- Líderes de Gimnasio -->
+    <!-- Brock -->
+        <string id="1641684"> </string>
+        <string id="1642063"> </string>
+        <string id="1642433"> </string>
+        <string id="1642488"> </string>
+        <string id="1642767"> </string>
+    <!-- Misty -->
+        <string id="1647087"> </string>
+        <string id="1647295"> </string>
+        <string id="1647351"> </string>
+        <string id="1647630"> </string>
+        <string id="1647661"> </string>
+    <!-- Lt. Surge -->
+        <string id="1657764"> </string>
+        <string id="1657998"> </string>
+        <string id="1658106"> </string>
+        <string id="1658247"> </string>
+        <string id="1658280"> </string>
+        <string id="1658339"> </string>
+        <string id="1658371"> </string>
+    <!-- Erika -->
+        <string id="1667348"> </string>
+        <string id="1667680"> </string>
+        <string id="1667768"> </string>
+        <string id="1667879"> </string>
+        <string id="1668026"> </string>
+        <string id="1668055"> </string>
+    <!-- Sabrina -->
+        <string id="1684796"> </string>
+        <string id="1684994"> </string>
+        <string id="1685125"> </string>
+        <string id="1685242"> </string>
+        <string id="1685459"> </string>
+        <string id="1685490"> </string>
+    <!-- Koga -->
+        <string id="1671982"> </string>
+        <string id="1672260"> </string>
+        <string id="1672321"> </string>
+        <string id="1672462"> </string>
+        <string id="1672591"> </string>
+        <string id="1672619"> </string>
+    <!-- Blaine -->
+        <string id="1676611"> </string>
+        <string id="1676794"> </string>
+        <string id="1676882"> </string>
+        <string id="1676958"> </string>
+        <string id="1677055"> </string>
+        <string id="1677085"> </string>
+    <!-- Petra -->
+        <string id="270613551"> </string>
+        <string id="270613753"> </string>
+        <string id="270613778"> </string>
+        <string id="270613907"> </string>
+    <!-- Marcial -->
+        <string id="270521028"> </string>
+        <string id="270521191"> </string>
+        <string id="270521211"> </string>
+        <string id="270521310"> </string>
+    <!-- Erico -->
+        <string id="270592423"> </string>
+        <string id="270592578"> </string>
+        <string id="270592606"> </string>
+        <string id="270592765"> </string>
+    <!-- Candela -->
+        <string id="270530049"> </string>
+        <string id="270530207"> </string>
+        <string id="270530239"> </string>
+        <string id="270530398"> </string>
+    <!-- Norman -->
+        <string id="270561822">¿Entrar?</string>
+        <string id="270561920">¿Entrar?</string>
+        <string id="270561979">¿Entrar?</string>
+        <string id="270562039">¿Entrar?</string>
+        <string id="270562097">¿Entrar?</string>
+        <string id="270562156">¿Entrar?</string>
+        <string id="270562215">¿Entrar?</string>
+        <string id="270562276">¿Entrar?</string>
+        <string id="270562466"> </string>
+        <string id="270562766"> </string>
+        <string id="270562807"> </string>
+        <string id="270562890"> </string>
+    <!-- Alana -->
+        <string id="270627072"> </string>
+        <string id="270627302"> </string>
+        <string id="270627339"> </string>
+        <string id="270627474"> </string>
+    <!-- Leti Y Vito -->
+        <string id="270671115"> </string>
+        <string id="270671365"> </string>
+        <string id="270671429"> </string>
+        <string id="270671544"> </string>
+    <!-- Galano -->
+        <string id="270686544"> </string>
+        <string id="270686766"> </string>
+        <string id="270686823"> </string>
+        <string id="270687048"> </string>
+    
+
+<!-- Misc -->
+    <string id="6012">¿Usar otro {00}?</string>
+</strings>
