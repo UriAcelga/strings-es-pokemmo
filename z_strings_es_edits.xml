@@ -74,7 +74,6 @@
     <string id="16780329">¿Cosechar las {01} {00}?</string>
     <string id="16780330"> </string>
     <string id="16780331"> </string>
-
 <!-- Líderes de Gimnasio -->
     <!-- Brock -->
         <string id="1641684"> </string>
@@ -176,4 +175,5 @@
 
 <!-- Misc -->
     <string id="6012">¿Usar otro {00}?</string>
+    <string id="0">Pokémon</string>
 </strings>
